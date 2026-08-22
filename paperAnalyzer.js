@@ -1,0 +1,1 @@
+export function analyzePaper(text){return {keywords:text.split(' ').slice(0,10)}};

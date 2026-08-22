@@ -1,0 +1,1 @@
+export function save(data){localStorage.setItem('scene',JSON.stringify(data))}
