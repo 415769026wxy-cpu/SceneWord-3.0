@@ -1,0 +1,32 @@
+body{
+margin:0;
+background:#f7f8f8;
+font-family:-apple-system,BlinkMacSystemFont,'PingFang SC';
+text-align:center;
+color:#222;
+}
+header{
+background:#66c6c0;
+color:white;
+padding:40px;
+border-radius:0 0 30px 30px;
+}
+.dashboard,.card{
+background:white;
+margin:25px;
+padding:30px;
+border-radius:25px;
+box-shadow:0 5px 20px rgba(0,0,0,.08);
+}
+.card{
+min-height:240px;
+padding-top:60px;
+}
+button{
+background:#66c6c0;
+color:white;
+border:0;
+padding:15px 22px;
+margin:5px;
+border-radius:25px;
+}
